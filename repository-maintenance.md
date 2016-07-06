@@ -4,6 +4,8 @@
 
 ### Active
 
+Default, if unspecified a repository is in this state.
+
 ### Unmaintained
 
 Code is still in a workable state but unsupported and not responding to new issues or accepting any new pull requests.
