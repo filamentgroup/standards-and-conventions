@@ -4,6 +4,8 @@
 
 ### Active
 
+Default, if unspecified a repository is in this state.
+
 ### Unmaintained
 
 Code is still in a workable state but unsupported and not responding to new issues or accepting any new pull requests. [Example](https://github.com/filamentgroup/jQuery-Equal-Heights)
@@ -21,7 +23,6 @@ Code is still in a workable state but unsupported and not responding to new issu
 * Update related blog posts with the following notice:
 
 > The techniques described in this blog post have been deprecated in favor of [LINK TO NEW CONTENT HERE]().
-
 
 ### Retired
 
