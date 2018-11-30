@@ -14,16 +14,17 @@
 
 ### Process to update repository status
 
-1. Prepend the following to the the GitHub repository description:
+1. Prepend a note to the the GitHub repo description:
 
-> Unmaintained (see README):
+`Unmaintained (see README):` or `Retired (see README):`
 
-> Retired (see README):
-
-2. Add a note to the project README:
+2. Add a note to the top of the project’s README.md file:
 
 ```markdown
 # ⚠️ Unmaintained: SocialCount
+```
+
+```markdown
 # 🚫 Retired: SocialCount
 ```
 
@@ -33,12 +34,18 @@ Per [our unmaintained repository status documentation](https://github.com/filame
 
 3. Close active issues and pull requests, you can use the following response template:
 
-> Unfortunately this repository has been moved into an unmaintained state and as such all open issues and pull requests will now be closed. The content there-in has been deprecated in favor of [LINK TO NEW CONTENT HERE]().
+```markdown
+Unfortunately this repository has been moved into an unmaintained state and as such all open issues and pull requests will now be closed. The content there-in has been deprecated in favor of [LINK TO NEW CONTENT HERE]().
+```
 
-> Unfortunately this repository has been moved into an retired state and as such all open issues and pull requests will now be closed. The content there-in has been deprecated in favor of [LINK TO NEW CONTENT HERE]().
+```markdown
+Unfortunately this repository has been moved into a retired state and as such all open issues and pull requests will now be closed. The content there-in has been deprecated in favor of [LINK TO NEW CONTENT HERE]().
+```
 
 4. Switch the repository to an Archived state in GitHub settings.
 
 5. Update related blog posts with the following notice:
 
-> The techniques described in this blog post have been deprecated in favor of [LINK TO NEW CONTENT HERE]().
+```markdown
+The techniques described in this blog post have been deprecated in favor of [LINK TO NEW CONTENT HERE]().
+```
