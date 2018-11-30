@@ -14,11 +14,10 @@
 
 ### Process to update repository status
 
-1. Update the GitHub repository description to the following:
+1. Prepend the following to the the GitHub repository description:
 
-> This repository is unmaintained. Please see the included readme for more information.
-
-> This repository has been retired. Please see the included readme for more information.
+> Unmaintained (see README):
+> Retired (see README):
 
 2. Close active issues and pull requests, you can use the following response template:
 
