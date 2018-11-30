@@ -19,14 +19,23 @@
 > Unmaintained (see README):
 > Retired (see README):
 
-2. Close active issues and pull requests, you can use the following response template:
+2. Add a note to the project README:
+
+> # ⚠️ Unmaintained: SocialCount
+> # 🚫 Retired: SocialCount
+
+```md
+Per [our unmaintained repository status documentation](https://github.com/filamentgroup/standards-and-conventions/blob/master/repository-maintenance.md#unmaintained) this repository is in an as-is state and is no longer accepting issue reports or pull requests.
+```
+
+3. Close active issues and pull requests, you can use the following response template:
 
 > Unfortunately this repository has been moved into an unmaintained state and as such all open issues and pull requests will now be closed. The content there-in has been deprecated in favor of [LINK TO NEW CONTENT HERE]().
 
 > Unfortunately this repository has been moved into an retired state and as such all open issues and pull requests will now be closed. The content there-in has been deprecated in favor of [LINK TO NEW CONTENT HERE]().
 
-3. Switch the repository to an Archived state in GitHub settings.
+4. Switch the repository to an Archived state in GitHub settings.
 
-4. Update related blog posts with the following notice:
+5. Update related blog posts with the following notice:
 
 > The techniques described in this blog post have been deprecated in favor of [LINK TO NEW CONTENT HERE]().
