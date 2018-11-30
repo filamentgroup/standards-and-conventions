@@ -6,21 +6,11 @@
 
 ### Repository States
 
-#### Active
-
-Default, if unspecified a repository is in this state.
-
-#### Unmaintained
-
-Code is still in a workable state but unsupported and not responding to new issues or accepting any new pull requests.
-
-* [Example](https://github.com/filamentgroup/jQuery-Equal-Heights)
-
-#### Retired
-
-Code should not be used. Approach has been deprecated or folded into another repository. Also has the properties of being unmaintained (per above).
-
-* [Example](https://github.com/filamentgroup/face-off/)
+* _Active_: the default, if unspecified a repository is in this state.
+* _Unmaintained_: Code is still in a workable state but unsupported and not responding to new issues or accepting any new pull requests.
+    * [Example](https://github.com/filamentgroup/jQuery-Equal-Heights)
+* _Retired_: Code should not be used. Approach has been deprecated or folded into another repository. Also has the properties of being unmaintained (per above).
+    * [Example](https://github.com/filamentgroup/face-off/)
 
 ### Process to update repository status
 
