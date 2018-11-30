@@ -17,14 +17,17 @@
 1. Prepend the following to the the GitHub repository description:
 
 > Unmaintained (see README):
+
 > Retired (see README):
 
 2. Add a note to the project README:
 
-> # ⚠️ Unmaintained: SocialCount
-> # 🚫 Retired: SocialCount
+```markdown
+# ⚠️ Unmaintained: SocialCount
+# 🚫 Retired: SocialCount
+```
 
-```md
+```markdown
 Per [our unmaintained repository status documentation](https://github.com/filamentgroup/standards-and-conventions/blob/master/repository-maintenance.md#unmaintained) this repository is in an as-is state and is no longer accepting issue reports or pull requests.
 ```
 
