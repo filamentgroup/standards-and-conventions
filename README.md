@@ -1,4 +1,6 @@
-# Filament Group Open Source Standards and Conventions
+# Open Source Standards and Conventions
+
+[![Filament Group](http://filamentgroup.com/images/fg-logo-positive-sm-crop.png) ](http://www.filamentgroup.com/)
 
 ## Repository Maintenance
 
